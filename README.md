@@ -12,4 +12,5 @@ Hi, I'm Xavier Nai, also known as SphericaFlower52811. I'm a student who is inte
 
 ## Social Medias
 
-- www.linkedin.com/in/xaviernai
+- https://www.linkedin.com/in/xaviernai
+- sphericalflower52811@gmail.com

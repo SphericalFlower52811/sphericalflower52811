@@ -21,6 +21,13 @@ This is an unfinished cybersecurity repo because I haven't had time to document 
 
 ---
 
+## Achievements
+
+- 6th place in YCEP 2026 bootcamp's mini-CTF in Singapore Polytechnic, moved to the central CTF (national-level).
+- 10th place in the Individual CTF category of the YCEP Central CTF.
+- Certified Apple Teacher
+- Introduction to Cybersecurity by Cisco
+
 ## Social Medias
 
 - Linkedin: www.linkedin.com/in/xaviernai

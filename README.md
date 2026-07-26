@@ -1,6 +1,6 @@
 # SphericalFlower52811
 
-Hi! I'm Xavier Nai, also known as SphericalFlower52811. I'm a student who is interested in website cybersecurity (mainly penetration testing), and is working on a website reconnaissance tool called EndpointScanner.
+Hi! I'm Xavier Nai, also known as SphericalFlower52811. I'm a student who is interested in website cybersecurity (via red teaming), and I am currently working on a website reconnaissance tool called EndpointScanner.
 
 ---
 

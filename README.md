@@ -1,6 +1,6 @@
 # SphericalFlower52811
 
-Hi! I'm SphericalFlower52811. I'm a student who is interested in website cybersecurity (via red teaming), and I am currently working on a website reconnaissance tool called EndpointScanner.
+Hi! I'm SphericalFlower52811. I'm a student who is interested in website cybersecurity (via red teaming), and I am currently working on a website reconnaissance tool called EndpointScanner. The he/her pronouns in my profile are purely a joke.
 
 ---
 
@@ -26,7 +26,6 @@ This is an unfinished cybersecurity repo because I haven't had time to document 
 - 6th place in YCEP 2026 bootcamp's mini-CTF in Singapore Polytechnic, moved to the central CTF (national-level).
 - 10th place in the Individual CTF category of the YCEP Central CTF.
 - Certified Apple Teacher
-- Introduction to Cybersecurity by Cisco
 
 ## Social Medias
 

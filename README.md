@@ -10,7 +10,7 @@ Hi! I'm SphericalFlower52811. I'm a student who is interested in website cyberse
 
 [EndpointScanner Docs](https://sphericalflower52811.github.io/endpointscanner/)
 
-[Github Repo](https://github.com/SphericalFlower52811/endpointscanner)
+[EndpointScanner Repo](https://github.com/SphericalFlower52811/endpointscanner)
 
 ---
 

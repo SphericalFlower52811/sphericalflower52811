@@ -42,7 +42,7 @@ my portfolio website can be found here:
 ### Cybersecurity portfolio
 
 This is an unfinished cybersecurity repo because I haven't had time to document my findings properly. I will eventually format it properly. It also acts as a portfolio for what I have done.
-[Cybersec Repo](https://github.com/SphericalFlower52811/cybersecurity)
+[Cybersec Repo](https://github.com/SphericalFlower52811/cybersec)
 
 ---
 
